@@ -10,3 +10,5 @@ public class HomeController {
         return "Protected Page";
     }
 }
+//Next add custom login route and protect some page;
+//
